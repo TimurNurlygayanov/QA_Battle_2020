@@ -10,6 +10,7 @@ ZERO2 полностью управляется JavaScript кодом, и, в д
 описан в этом документе.
 
 Игра доступна по адресу: https://qa-battle4.herokuapp.com/
+
 Список победителей доступен по адресу https://qa-battle4.herokuapp.com/scoreboard
 
 
