@@ -9,9 +9,9 @@ ZERO2 полностью управляется JavaScript кодом, и, в д
 свой собственный набор команд (SDK), который подробно 
 описан в этом документе.
 
-Игра доступна по адресу: https://qa-battle4.herokuapp.com/
+Игра доступна по адресу: https://qa.semrush-games.com/
 
-Список победителей доступен по адресу https://qa-battle4.herokuapp.com/scoreboard
+Список победителей доступен по адресу https://qa.semrush-games.com/scoreboard
 
 
 Функции
